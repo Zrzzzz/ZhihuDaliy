@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "24127B55-D3E2-454A-8B68-B0F1157B3E11"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "672BAFFE-A875-4281-8A58-075A3F708FCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zhihu Daily/CommentsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "75CB9682-F6E7-4329-91B6-BE2D5E58A1AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x103e4f4a6">
+            <Locations>
+               <Location
+                  uuid = "75CB9682-F6E7-4329-91B6-BE2D5E58A1AF - 8cd5f5e88ca14300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc Zhihu_Daily.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Zhihu Daily"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zrzz/Coding/iOS/Project/Zhihu%20Daily/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6D7C488-40E0-45AC-AB96-F7E6E2E65228"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Zhihu Daily/Tools/Alama.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getNews(someclosure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6D7C488-40E0-45AC-AB96-F7E6E2E65228 - 6225462424079aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Zhihu_Daily.Alama.getNews(someclosure: () -&gt; ()) -&gt; ()"
+                  moduleName = "Zhihu Daily"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zrzz/Coding/iOS/Project/Zhihu%20Daily/Zhihu%20Daily/Tools/Alama.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "C6D7C488-40E0-45AC-AB96-F7E6E2E65228 - 86168e6503112795"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static Zhihu_Daily.Alama.getNews(someclosure: () -&gt; ()) -&gt; ()"
+                  moduleName = "Zhihu Daily"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zrzz/Coding/iOS/Project/Zhihu%20Daily/Zhihu%20Daily/Tools/Alama.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "411">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
